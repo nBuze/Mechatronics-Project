@@ -2,14 +2,11 @@
 // Elec 299 - Winter 2017
 ///////////////////////////////
 // FinalProjectCode
-//
-// Group #: 46
-// Kit #: 48
 // 
 // Group Members:
-// Nolan Buzanis (10195981)
-// Miguel Martins (10143149)
-// Nick Guida (10188247)
+// Nolan Buzanis 
+// Miguel Martins 
+// Nick Guida 
 
 
 #include <Servo.h>   //Include the library related with servo-controlling function
